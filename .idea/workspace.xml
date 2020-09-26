@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6d7ea40-7325-4133-9150-21bed97c1f80" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/api/v1/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/api/v1/CategoryController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/api/v1/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/api/v1/LoginController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ecms" />
+    <property name="last_opened_file_path" value="D:/HeCa/Projects/laravel/service_container" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -198,7 +195,10 @@
       <workItem from="1600620609815" duration="3651000" />
       <workItem from="1600656220755" duration="954000" />
       <workItem from="1600658700913" duration="5312000" />
-      <workItem from="1600742112626" duration="599000" />
+      <workItem from="1600742112626" duration="808000" />
+      <workItem from="1600885632885" duration="4079000" />
+      <workItem from="1600943718096" duration="1543000" />
+      <workItem from="1601065181097" duration="3000" />
     </task>
     <servers />
   </component>
@@ -214,10 +214,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="216" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600282887334" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599895444196">
+    <state x="914" y="191" key="FileChooserDialogImpl" timestamp="1600954684927">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599895444196" />
+    <state x="914" y="191" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600954684927" />
     <state width="914" height="162" key="GridCell.Tab.0.bottom" timestamp="1599657047630">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
